@@ -1,2 +1,2 @@
 # design-files
-This is a test of the git-lfs
+Within this git repo I will be testing my knowledge of git, along with testing the possibilites of using git lfs to manage version control with design documents.
